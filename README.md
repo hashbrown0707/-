@@ -35,11 +35,13 @@ int main()
 
 ## 1-1 OOP Introduction
 
-##### 名詞定義
+#### 名詞定義
 
 ```
 1.object is var, class is type.
 2.encapsulution is to decided where can get || set an object.
-3.inheritance is to give the data to child, child know parent's data, and parent doesn't know child's.
+3.inheritance is to give the data to child, child knows parent's data, but parent doesn't know childs'.
 4.polymorphism is to let an object have mutiple property(var, function) from different objects, like overrided function.
+5.function overloading is to have multiple definitions for the same function name in the same scope.
 ```
+
