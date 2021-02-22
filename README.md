@@ -33,6 +33,8 @@ int main()
 
 3.正規表示法(Ragular Expression) : https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F#%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95
 
+4.function的名稱是function在stack中的記憶體起點
+
 ## 1-1 OOP Introduction
 
 #### 名詞定義
