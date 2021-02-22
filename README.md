@@ -35,5 +35,11 @@ int main()
 
 ## 1-1 OOP Introduction
 
-1.
+##### 名詞定義
 
+```
+1.object is var, class is type.
+2.encapsulution is to decided where can get || set an object.
+3.inheritance is to give the data to child, child know parent's data, and parent doesn't know child's.
+4.polymorphism is to let an object have mutiple property(var, function) from different objects, like overrided function.
+```
