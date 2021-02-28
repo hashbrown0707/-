@@ -1,0 +1,4 @@
+﻿  vector - Student ID - hw1.cpp
+C:\Users\1qaz9\OneDrive\Desktop\基哥\Assignment1\vector - Student ID - hw1.cpp(74): error C4716: 'vector::insert': 必須傳回值
+C:\Users\1qaz9\OneDrive\Desktop\基哥\Assignment1\vector - Student ID - hw1.cpp(83): error C4716: 'vector::assign': 必須傳回值
+C:\Users\1qaz9\OneDrive\Desktop\基哥\Assignment1\vector - Student ID - hw1.cpp(90): error C4716: 'vector::erase': 必須傳回值
